@@ -1,0 +1,63 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        text-decoration: none;
+        font-family: 'Outfit', sans-serif;
+        font-size: 15px;
+    }
+    body{
+        background-color: hsl(212, 45%, 89%);
+        width: 100%;
+        min-height: 100vh;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .box-main{
+        background-color: #ffffff; 
+        border-radius: 10px;
+        width: 300px;
+        height: 450px;        
+        padding: 20px;
+        margin: auto;
+        
+    }
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+        border-radius: 10px;
+       }
+
+    .title {
+        font-weight: 700;
+        font-size: 18px;
+        margin: 15px 0px 15px 0px;
+        text-align: center;
+        
+        
+    }
+    .sub-title {
+        color: #999999;
+        font-weight: 400;
+        text-align: center;
+    }
+    .attribution { 
+        
+        font-size: 15px; 
+        text-align: center;
+        margin: auto;
+    }
+    .attribution a { 
+        color: hsl(228, 45%, 44%); 
+    }
+
