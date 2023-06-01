@@ -1,14 +1,13 @@
-##Front End Mentor 👨‍💻
+## Front End Mentor 👨‍💻
+#### Level 1
 
-#####Level 1
->>Challenge 1 - QR code component
+>Challenge 1 - QR code component
 
 ![preview](./level1/1%20-%20QR%20Code%20Component%20Main/.github/preview.png)
 
 🔗 [Clique aqui para acessar](https://wmbernardes.github.io/frontmentor.io/level1/1%20-%20QR%20Code%20Component%20Main/index.html)
 
 ## ⚙️Tecnologias
-
 
 <div>
 
